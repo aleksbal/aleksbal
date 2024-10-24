@@ -4,7 +4,7 @@
 I'm a **freelance software developer** with 20+ years of experience in various fields of software engineering. Lately, I've been focusing on **Artificial Intelligence** and **Machine Learning**. I am passionate about **innovating solutions**, exploring **new technologies**, and **contributing** to impactful projects.
 
 ### 🔧 Tech Stack
-- **Languages**: Java, Kotlin, Python, JavaScript
+- **Languages**: Java, Kotlin, JavaScript, Python
 - **Frameworks**: Spring Boot, Node.js, FastAPI
 - **AI/ML**: Llama, PyTorch
 - **Databases**: PostgreSQL, Oracle, MongoDB, Elastic Search
@@ -22,8 +22,8 @@ I'm a **freelance software developer** with 20+ years of experience in various f
 - Exploring AI-driven Software Development
 
 ### 📫 Let's Connect
-- Email: aleksandar@example.com
-- LinkedIn: [Aleksandar Balaban](https://linkedin.com/in/aleksandar-balaban)
+- Email: aleksandar.balaban@gmail.com
+- LinkedIn: [Aleksandar Balaban](https://linkedin.com/in/aleksbalaban)
 
 ### ⚡ Fun Fact
 When I’m not coding, you’ll likely find me:
