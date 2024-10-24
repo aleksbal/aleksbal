@@ -17,9 +17,11 @@ I'm a **freelance software developer** with 20+ years of experience in various f
 - Currently working on a **Conversational AI project** using **Llama**
 
 ### 🚀 Current Projects
-- Building AI-powered application demonstrators with a focus on conversational interfaces
-- Exploring cutting-edge ML models and AI development tools
+- Experimenting with Java Virtual Threads, native compilation, and WebFlux alongside Spring Boot
 - Exploring AI-driven Software Development
+- Building AI-powered application demonstrators with a focus on conversational interfaces
+- Investigating OpenSearch Service's vector database capabilities
+- Exploring cutting-edge ML models and AI development tools
 
 ### 📫 Let's Connect
 - Email: aleksandar.balaban@gmail.com
