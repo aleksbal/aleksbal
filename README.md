@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm Aleks Balaban
 
-<!--
-**aleksbal/aleksbal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 About Me
+I'm a **freelance software developer** with 20+ years of experience in various fields of software engineering. Lately, I've been focusing on **Artificial Intelligence** and **Machine Learning**. I am passionate about **innovating solutions**, exploring **new technologies**, and **contributing** to impactful projects.
 
-Here are some ideas to get you started:
+### 🔧 Tech Stack
+- **Languages**: Java, Kotlin, Python, JavaScript
+- **Frameworks**: Spring Boot, Node.js, FastAPI
+- **AI/ML**: Llama, PyTorch
+- **Databases**: PostgreSQL, Oracle, MongoDB, Elastic Search
+- **Tools**: Docker, Kubernetes, Gradle, Git, Jenkins
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌟 Highlights
+- 20+ years of software development experience
+- Deep interest in AI and Conversational AI technologies
+- Strong background in backend systems, APIs, and cloud infrastructure
+- Currently working on a **Conversational AI project** using **Llama**
+
+### 🚀 Current Projects
+- Building AI-powered application demonstrators with a focus on conversational interfaces
+- Exploring cutting-edge ML models and AI development tools
+- Exploring AI-driven Software Development
+
+### 📫 Let's Connect
+- Email: aleksandar@example.com
+- LinkedIn: [Aleksandar Balaban](https://linkedin.com/in/aleksandar-balaban)
+
+### ⚡ Fun Fact
+When I’m not coding, you’ll likely find me:
+- Repairing vintage audio gear (because modern sound just isn’t retro enough!),
+- Crafting the perfect pizza in my self-made oven (yes, it’s as epic as it sounds 🍕),
+- Or experimenting with Chinese cooking (currently on a quest to master the wok!).
