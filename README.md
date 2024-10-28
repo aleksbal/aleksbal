@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Aleks Balaban
 
 ### 👨‍💻 About Me
-I'm a **freelance software developer** with 20+ years of experience in various fields of software engineering. Lately, I've been focusing on **Artificial Intelligence** and **Machine Learning**. I am passionate about **innovating solutions**, exploring **new technologies**, and **contributing** to impactful projects.
+I'm a **software engineer** with 20+ years of experience in various fields of software design and development. Lately, I've been focusing on **Artificial Intelligence** and **Machine Learning**. I am passionate about **innovating solutions**, exploring **new technologies**, and **contributing** to impactful projects.
 
 ### 🔧 Tech Stack
 - **Languages**: Java, Kotlin, JavaScript, Python
