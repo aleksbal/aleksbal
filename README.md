@@ -12,7 +12,7 @@ I'm a **software engineer** with 20+ years of experience in various fields of so
 
 ### 🌟 Highlights
 - 20+ years of software development experience
-- Deep interest in AI and Conversational AI technologies
+- Deep interest in ML and Conversational AI technologies
 - Strong background in backend systems, APIs, and cloud infrastructure
 - Currently working on a **Conversational AI project** using **Llama**
 
