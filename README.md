@@ -8,7 +8,7 @@ I'm a **software engineer** with 20+ years of experience in various fields of so
 - **Frameworks**: Spring Boot, Node.js, FastAPI
 - **Databases**: PostgreSQL, Oracle, MongoDB, Elastic Search
 - **DevOps**: Docker, Kubernetes, Gradle, Git, Jenkins
-- **AI/ML**: (O)Llama, ML/PyTorch & Stuff
+- **AI/ML**: OpenAI, (O)Llama, RAG, some TF/PyTorch & Stuff
 
 ### 🌟 Highlights
 - 20+ years of software development experience
