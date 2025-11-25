@@ -18,7 +18,7 @@ I'm a **software engineer** with 20+ years of experience in various fields of so
 
 ### 🚀 Current Activities
 - Experimenting with Java Virtual Threads, native compilation, and WebFlux alongside Spring Boot
-- Exploring AI-driven Software Development
+- Exploring AI-driven Software Development aka coding :-) (GitHub Copilot, Cursor)
 - Contemplating on AI-powered application demonstrators with a focus on conversational interfaces
 - Investigating OpenSearch Service's vector database capabilities
 - Exploring cutting-edge ML models and AI development tools
