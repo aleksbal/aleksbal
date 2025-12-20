@@ -13,9 +13,9 @@ I'm a **software engineer** with 20+ years of experience in various fields of so
 
 ### 🌟 Highlights
 - 20+ years of software development experience
-- Deep interest in ML and Conversational AI technologies
+- Deep interest in ML and AI technologies
 - Strong background in backend systems, APIs, and cloud stuff
-- Currently working on a **Conversational AI project** using **Llama**
+- Currently working on a **Generativ/Conversational AI projects** using **Llama, LangChain etc.**
 
 ### 🚀 Current Activities
 - Experimenting with Java Virtual Threads, native compilation, and WebFlux alongside Spring Boot
