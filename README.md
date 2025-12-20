@@ -18,7 +18,6 @@ I'm a **software engineer** with 20+ years of experience in various fields of so
 - Currently working on a **Generativ/Conversational AI projects** using **Llama, LangChain etc.**
 
 ### 🚀 Current Activities
-- Experimenting with Java Virtual Threads, native compilation, and WebFlux alongside Spring Boot
 - AI coding (GitHub Copilot, Cursor)
 - Contemplating on AI-powered application demonstrators with a focus on conversational interfaces
 - Investigating OpenSearch Service's vector database capabilities
