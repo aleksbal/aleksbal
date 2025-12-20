@@ -5,10 +5,11 @@ I'm a **software engineer** with 20+ years of experience in various fields of so
 
 ### 🔧 Tech Stack
 - **Languages**: Java, Kotlin, JavaScript, Python
+- **AI Coding**: GitHub Copilot, Cursor
 - **Frameworks**: Spring Boot, Node.js, FastAPI
+- **AI/ML**: OpenAI, (O)Llama, LangChain, RAG, some TF/PyTorch & Stuff
 - **Databases**: PostgreSQL, Oracle, MongoDB, Elastic Search
 - **DevOps**: Docker, Kubernetes, Gradle, Git, Jenkins
-- **AI/ML**: OpenAI, (O)Llama, RAG, some TF/PyTorch & Stuff
 
 ### 🌟 Highlights
 - 20+ years of software development experience
