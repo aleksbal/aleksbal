@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Aleks Balaban
 
 ### 👨‍💻 About Me
-I'm a **software engineer** with 20+ years of experience in various fields of software engineering. Lately, I've been focusing on a **Generativ/Conversational AI projects** using **Ollama, LangChain etc.. I am passionate about **innovating solutions**, exploring **new technologies**, and **contributing** to impactful projects.
+I'm a **software engineer** with 20+ years of experience in various fields of software engineering. Lately, I've been focusing on a **Generativ/Conversational/Agentic AI projects** using AWS Bedrock, OpenAI API, Ollama, LangChain & Co. I am passionate about **innovating solutions**, exploring **new technologies**, and **contributing** to impactful projects.
 
 ### 🔧 Tech Stack
 - **Languages**: Java, Kotlin, JavaScript, Python
 - **AI Coding**: GitHub Copilot, Cursor
 - **Frameworks**: Spring Boot, Node.js, FastAPI
-- **AI/ML**: OpenAI, (O)Llama, LangChain, RAG, some TF/PyTorch & Stuff
+- **AI/ML**: OpenAI, (O)Llama, LangChain, Agents, RAG, some TF/PyTorch & Stuff
 - **Databases**: PostgreSQL, Oracle, MongoDB, Elastic Search
 - **DevOps**: Docker, Kubernetes, Gradle, Git, Jenkins
 
@@ -15,7 +15,7 @@ I'm a **software engineer** with 20+ years of experience in various fields of so
 - 20+ years of software development experience
 - Deep interest in ML and AI technologies
 - Strong background in backend systems, APIs, and cloud stuff
-- Currently working on a **Generativ/Conversational AI projects** using **Ollama, LangChain etc.**
+- Agentic LLM based workflow automatisation and RAG systems.
 
 ### 🚀 Current Activities
 - AI coding (GitHub Copilot, Cursor)
