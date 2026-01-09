@@ -7,7 +7,7 @@ I'm a **software engineer** with 20+ years of experience in various fields of so
 - **Languages**: Java, Kotlin, JavaScript, Python
 - **AI Coding**: GitHub Copilot, Cursor
 - **Frameworks**: Spring Boot, Node.js, FastAPI
-- **AI/ML**: OpenAI, (O)Llama, LangChain, Agents, RAG, some TF/PyTorch & Stuff
+- **AI/ML**: OpenAI, Ollama, LangChain, Agents, RAG, some TF/PyTorch & Stuff
 - **Databases**: PostgreSQL, Oracle, MongoDB, Elastic Search
 - **DevOps**: Docker, Kubernetes, Gradle, Git, Jenkins
 
