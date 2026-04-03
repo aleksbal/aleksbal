@@ -5,7 +5,7 @@ I'm a **software engineer** with 20+ years of experience in various fields of so
 
 ### 🔧 Tech Stack
 - **Languages**: Java, Kotlin, JavaScript, Python
-- **AI Coding**: GitHub Copilot, Cursor
+- **AI Coding**: Cursor, Claude, Codex
 - **Frameworks**: Spring Boot, Node.js, FastAPI
 - **AI/ML**: OpenAI, Ollama, LangChain, Agents, RAG, some TF/PyTorch & Stuff
 - **Databases**: PostgreSQL, Oracle, MongoDB, Elastic Search
@@ -18,9 +18,9 @@ I'm a **software engineer** with 20+ years of experience in various fields of so
 - Agentic LLM based workflow automatisation and RAG systems.
 
 ### 🚀 Current Activities
-- AI coding (GitHub Copilot, Cursor)
+- Agentic AI coding (Claude, Cursor)
 - Contemplating on AI-powered application demonstrators with a focus on conversational interfaces
-- Investigating OpenSearch Service's vector database capabilities
+- Investigating complex RAG architecture
 - Exploring cutting-edge ML models and AI development tools
 
 ### 📫 Let's Connect
