@@ -2,7 +2,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a **software engineer** with 20+ years of experience in backend systems, APIs, and cloud infrastructure. For the past few years, I've been focusing on **agentic AI systems** — designing and building LLM-powered workflows, conversational interfaces, and RAG architectures for real-world enterprise use cases.
+I'm a **software engineer** with 20+ years of experience in backend systems, APIs, and cloud infrastructure. For the past few years, I focus on practical AI engineering: LLM integration, RAG, evaluation, grounded workflows, backend systems, APIs, and production-ready architectures.
 
 I also run **[Modest AI Studio](https://aleksbal.github.io/ai-consulting)**, where I help small and medium-sized businesses move from AI curiosity to working solutions — from strategy through implementation.
 
@@ -21,7 +21,7 @@ I also run **[Modest AI Studio](https://aleksbal.github.io/ai-consulting)**, whe
 
 ### 🌟 Highlights
 
-- 25 years of software engineering across backend, APIs, and distributed systems
+- 20+ years of software engineering across backend, APIs, and distributed systems
 - Designed and implemented agentic LLM workflows and RAG systems for enterprise environments
 - Author of accessible technical writing on AI for business and IT stakeholders — [read the articles](https://aleksbal.github.io/ai-consulting/articles.html)
 - Practical experience evaluating and integrating LLM providers (Claude, OpenAI, Bedrock, local models)
