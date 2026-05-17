@@ -1,72 +1,69 @@
-# 👋 Hi, I'm Aleks Balaban
+# Hi, I'm Aleks Balaban
 
-### 👨‍💻 About Me
+### About Me
 
-I'm a **software engineer** with 20+ years of experience in backend systems, APIs, and cloud infrastructure. For the past few years, I focus on practical AI engineering: LLM integration, RAG, evaluation, grounded workflows, backend systems, APIs, and production-ready architectures.
+I'm a software engineer with 20+ years of experience in backend systems, APIs, distributed architectures, and cloud infrastructure.
 
-I also run **[Modest AI Studio](https://aleksbal.github.io/ai-consulting)**, where I help small and medium-sized businesses move from AI curiosity to working solutions — from strategy through implementation.
+In recent years, my focus has shifted toward AI-assisted software engineering and practical AI integration — using LLMs for development workflows, testing, codebase understanding, RAG, and privacy-aware enterprise use cases.
+
+I also run [Modest AI Studio](https://aleksbal.github.io/ai-consulting), where I help small and medium-sized businesses move from AI curiosity to working solutions — from strategy through implementation.
 
 ---
 
-### 🔧 Tech Stack
+### Tech Stack
 
 - **Core Stack**: Java, Kotlin, Python, JavaScript
-- **Frameworks & Platforms**: Spring Boot, Node.js, FastAPI
-- **AI / LLM Engineering**: Claude, OpenAI, AWS Bedrock, Ollama · LangChain, LangGraph · RAG, agents, MCP
-- **AI Coding**: Claude, Cursor, Codex, GitHub Copilot
+- **Backend & API Platforms**: Spring Boot, Node.js, FastAPI
+- **AI / LLM Engineering**: OpenAI, Anthropic Claude, AWS Bedrock, Ollama · LangChain, LangGraph · RAG, agents, MCP
+- **AI-Assisted Development**: Cursor, GitHub Copilot, Codex, Claude
 - **Data, Search & Analytics**: PostgreSQL, Oracle, MongoDB, Elasticsearch, Kibana
 - **DevOps & CI/CD**: Docker, Kubernetes, Gradle, Git, Jenkins
 
 ---
 
-### 🌟 Highlights
+### Highlights
 
-- 20+ years of software engineering across backend, APIs, and distributed systems
-- Designed and implemented agentic LLM workflows and RAG systems for enterprise environments
-- Built privacy-aware AI prototypes using local NER models to obfuscate sensitive content before forwarding prompts to online LLM services
-- Author of accessible technical writing on AI for business and IT stakeholders — [read the articles](https://aleksbal.github.io/ai-consulting/articles.html)
-- Practical experience evaluating and integrating LLM providers (Claude, OpenAI, Bedrock, local models)
-- Strong background in multi-tenant architectures, data pipelines, and systems integration
+- 20+ years of software engineering experience across backend systems, APIs, and distributed architectures
+- Strong background in Java, Spring Boot, database-backed systems, integration, and enterprise software delivery
+- Practical experience with AI-assisted Java development, test automation, integration testing, and codebase analysis
+- Built and explored AI prototypes involving LLM workflows, RAG, evaluation, and privacy-aware prompt obfuscation
+- Experience with local/offline NER-based obfuscation to reduce sensitive data exposure before using online LLM services
+- Author of practical, jargon-light technical writing on AI for business and IT stakeholders
 
 ---
 
-### 🚀 Current Focus
+### Current Focus
 
-- AI-assisted Java and Spring Boot development
-- AI-supported test automation, integration testing, and regression analysis
-- Codebase understanding, refactoring, documentation, and quality improvement with LLM-based tools
+- AI-assisted Java and Spring Boot development with tools such as Cursor, Claude, Codex, and GitHub Copilot
+- AI-supported test automation, integration testing, regression analysis, and codebase understanding
+- Applying LLMs to refactoring, documentation, quality improvement, and developer productivity
 - Privacy-aware AI integration, including local/offline NER-based obfuscation before using online LLM services
-- Practical RAG, agentic workflow, MCP, and evaluation patterns for enterprise software delivery
+- Exploring practical RAG, agentic workflow, MCP, and evaluation patterns for enterprise software delivery
 
 ---
 
-### 📝 Writing
+### Writing & Projects
 
-I publish practical, jargon-light articles on the building blocks of AI for IT and business decision-makers:
+I write about practical AI adoption, software engineering, and how small and medium-sized businesses can use AI without unnecessary hype.
 
-- [LLMs in Plain English](https://aleksbal.github.io/ai-consulting/articles/article-llm-in-plain-english.html)
-- [Why LLMs Change Business Process Automation](https://aleksbal.github.io/ai-consulting/articles/article-why-llms-change-automation.html)
-- [Why LLMs Can Use Tools](https://aleksbal.github.io/ai-consulting/articles/article-why-llm-can-use-tools.html)
-- [RAG Basics](https://aleksbal.github.io/ai-consulting/articles/article-rag-basics.html)
-- [RAG Systems Evaluation](https://aleksbal.github.io/ai-consulting/articles/article-rag-testing.html)
-- [MCP: Connecting AI Agents to Existing Systems](https://aleksbal.github.io/ai-consulting/articles/article-mcp-overview.html)
-- [What Does a Simple AI Automation Really Cost?](https://aleksbal.github.io/ai-consulting/articles/article-ai-automation-costs.html)
+- [Modest AI Studio](https://aleksbal.github.io/ai-consulting)
+- [AI Blog](https://aleksbal.github.io/ai-consulting/blog/)
 
 ---
 
-### 📫 Let's Connect
+### Connect
 
-- 🌐 [Modest AI Studio](https://aleksbal.github.io/ai-consulting)
-- 💼 [LinkedIn](https://linkedin.com/in/aleksbalaban)
-- 📧 aleksandar.balaban@gmail.com
+- GitHub: [@aleksbal](https://github.com/aleksbal)
+- LinkedIn: [Aleks Balaban](https://www.linkedin.com/in/aleksandarbalaban/)
+- Website: [Modest AI Studio](https://aleksbal.github.io/ai-consulting)
 
 ---
 
-### ⚡ Fun Fact
+### Fun Facts
 
-When I'm not building things with code:
+When I'm not building software or exploring AI, I enjoy:
 
-- 🔊 Repairing vintage audio gear — because modern sound just isn't retro enough
-- 🍕 Baking pizza in my self-built oven
-- 🤿 Freediving
-- 🥢 Mastering Chinese cooking (currently working on the wok)
+- Repairing vintage audio gear
+- Making pizza in a self-built oven
+- Exploring Chinese cooking
+- Freediving
