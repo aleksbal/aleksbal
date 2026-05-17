@@ -23,6 +23,7 @@ I also run **[Modest AI Studio](https://aleksbal.github.io/ai-consulting)**, whe
 
 - 20+ years of software engineering across backend, APIs, and distributed systems
 - Designed and implemented agentic LLM workflows and RAG systems for enterprise environments
+- Built privacy-aware AI prototypes using local NER models to obfuscate sensitive content before forwarding prompts to online LLM services
 - Author of accessible technical writing on AI for business and IT stakeholders — [read the articles](https://aleksbal.github.io/ai-consulting/articles.html)
 - Practical experience evaluating and integrating LLM providers (Claude, OpenAI, Bedrock, local models)
 - Strong background in multi-tenant architectures, data pipelines, and systems integration
@@ -31,10 +32,11 @@ I also run **[Modest AI Studio](https://aleksbal.github.io/ai-consulting)**, whe
 
 ### 🚀 Current Focus
 
-- Building and refining **agentic AI workflows** with Claude and Cursor
-- Designing **RAG architectures** — including retrieval evaluation, groundedness testing, and synthetic dataset generation
-- Developing **AI-powered demonstrators** with conversational UX for enterprise use cases
-- Exploring **MCP (Model Context Protocol)** for structured, safe integration of AI agents with existing systems
+- AI-assisted Java and Spring Boot development
+- AI-supported test automation, integration testing, and regression analysis
+- Codebase understanding, refactoring, documentation, and quality improvement with LLM-based tools
+- Privacy-aware AI integration, including local/offline NER-based obfuscation before using online LLM services
+- Practical RAG, agentic workflow, MCP, and evaluation patterns for enterprise software delivery
 
 ---
 
