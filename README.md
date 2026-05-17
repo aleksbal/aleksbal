@@ -10,18 +10,18 @@ I also run **[Modest AI Studio](https://aleksbal.github.io/ai-consulting)**, whe
 
 ### 🔧 Tech Stack
 
-- **Languages**: Java, Kotlin, Python, JavaScript
-- **Frameworks**: Spring Boot, Node.js, FastAPI
-- **AI**: Claude (Anthropic), OpenAI, AWS Bedrock, Ollama · LangChain, LangGraph · RAG, agentic workflows, MCP
-- **AI Coding**: Claude, Cursor
-- **Databases**: PostgreSQL, Oracle, MongoDB, Elasticsearch
-- **DevOps**: Docker, Kubernetes, Gradle, Git, Jenkins
+- **Core Stack**: Java, Kotlin, Python, JavaScript
+- **Frameworks & Platforms**: Spring Boot, Node.js, FastAPI
+- **AI / LLM Engineering**: Claude, OpenAI, AWS Bedrock, Ollama · LangChain, LangGraph · RAG, agents, MCP
+- **AI Coding**: Claude, Cursor, Codex, GitHub Copilot
+- **Data, Search & Analytics**: PostgreSQL, Oracle, MongoDB, Elasticsearch, Kibana
+- **DevOps & CI/CD**: Docker, Kubernetes, Gradle, Git, Jenkins
 
 ---
 
 ### 🌟 Highlights
 
-- 20+ years of software engineering across backend, APIs, and distributed systems
+- 25 years of software engineering across backend, APIs, and distributed systems
 - Designed and implemented agentic LLM workflows and RAG systems for enterprise environments
 - Author of accessible technical writing on AI for business and IT stakeholders — [read the articles](https://aleksbal.github.io/ai-consulting/articles.html)
 - Practical experience evaluating and integrating LLM providers (Claude, OpenAI, Bedrock, local models)
