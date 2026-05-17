@@ -1,35 +1,70 @@
 # 👋 Hi, I'm Aleks Balaban
 
 ### 👨‍💻 About Me
-I'm a **software engineer** with 20+ years of experience in various fields of software engineering. Lately, I've been focusing on a **Generativ/Conversational/Agentic AI projects** using AWS Bedrock, OpenAI API, Ollama, LangChain & Co. I am passionate about **innovating solutions**, exploring **new technologies**, and **contributing** to impactful projects.
+
+I'm a **software engineer** with 20+ years of experience in backend systems, APIs, and cloud infrastructure. For the past few years, I've been focusing on **agentic AI systems** — designing and building LLM-powered workflows, conversational interfaces, and RAG architectures for real-world enterprise use cases.
+
+I also run **[Modest AI Studio](https://aleksbal.github.io/ai-consulting)**, where I help small and medium-sized businesses move from AI curiosity to working solutions — from strategy through implementation.
+
+---
 
 ### 🔧 Tech Stack
-- **Languages**: Java, Kotlin, JavaScript, Python
-- **AI Coding**: Cursor, Claude, Codex
+
+- **Languages**: Java, Kotlin, Python, JavaScript
 - **Frameworks**: Spring Boot, Node.js, FastAPI
-- **AI/ML**: OpenAI, Ollama, LangChain, Agents, RAG, some TF/PyTorch & Stuff
-- **Databases**: PostgreSQL, Oracle, MongoDB, Elastic Search
+- **AI**: Claude (Anthropic), OpenAI, AWS Bedrock, Ollama · LangChain, LangGraph · RAG, agentic workflows, MCP
+- **AI Coding**: Claude, Cursor
+- **Databases**: PostgreSQL, Oracle, MongoDB, Elasticsearch
 - **DevOps**: Docker, Kubernetes, Gradle, Git, Jenkins
 
-### 🌟 Highlights
-- 20+ years of software development experience
-- Deep interest in ML and AI technologies
-- Strong background in backend systems, APIs, and cloud stuff
-- Agentic LLM based workflow automatisation and RAG systems.
+---
 
-### 🚀 Current Activities
-- Agentic AI coding (Claude, Cursor)
-- Contemplating on AI-powered application demonstrators with a focus on conversational interfaces
-- Investigating complex RAG architecture
-- Exploring cutting-edge ML models and AI development tools
+### 🌟 Highlights
+
+- 20+ years of software engineering across backend, APIs, and distributed systems
+- Designed and implemented agentic LLM workflows and RAG systems for enterprise environments
+- Author of accessible technical writing on AI for business and IT stakeholders — [read the articles](https://aleksbal.github.io/ai-consulting/articles.html)
+- Practical experience evaluating and integrating LLM providers (Claude, OpenAI, Bedrock, local models)
+- Strong background in multi-tenant architectures, data pipelines, and systems integration
+
+---
+
+### 🚀 Current Focus
+
+- Building and refining **agentic AI workflows** with Claude and Cursor
+- Designing **RAG architectures** — including retrieval evaluation, groundedness testing, and synthetic dataset generation
+- Developing **AI-powered demonstrators** with conversational UX for enterprise use cases
+- Exploring **MCP (Model Context Protocol)** for structured, safe integration of AI agents with existing systems
+
+---
+
+### 📝 Writing
+
+I publish practical, jargon-light articles on the building blocks of AI for IT and business decision-makers:
+
+- [LLMs in Plain English](https://aleksbal.github.io/ai-consulting/articles/article-llm-in-plain-english.html)
+- [Why LLMs Change Business Process Automation](https://aleksbal.github.io/ai-consulting/articles/article-why-llms-change-automation.html)
+- [Why LLMs Can Use Tools](https://aleksbal.github.io/ai-consulting/articles/article-why-llm-can-use-tools.html)
+- [RAG Basics](https://aleksbal.github.io/ai-consulting/articles/article-rag-basics.html)
+- [RAG Systems Evaluation](https://aleksbal.github.io/ai-consulting/articles/article-rag-testing.html)
+- [MCP: Connecting AI Agents to Existing Systems](https://aleksbal.github.io/ai-consulting/articles/article-mcp-overview.html)
+- [What Does a Simple AI Automation Really Cost?](https://aleksbal.github.io/ai-consulting/articles/article-ai-automation-costs.html)
+
+---
 
 ### 📫 Let's Connect
-- Email: aleksandar.balaban@gmail.com
-- LinkedIn: [Aleksandar Balaban](https://linkedin.com/in/aleksbalaban)
+
+- 🌐 [Modest AI Studio](https://aleksbal.github.io/ai-consulting)
+- 💼 [LinkedIn](https://linkedin.com/in/aleksbalaban)
+- 📧 aleksandar.balaban@gmail.com
+
+---
 
 ### ⚡ Fun Fact
-When I’m not coding, you’ll likely find me:
-- Repairing vintage audio gear (because modern sound just isn’t retro enough!),
-- Crafting the perfect pizza in my self-made oven (yes, it’s as epic as it sounds 🍕),
-- Freediving
-- Or experimenting with Chinese cooking (currently on a quest to master the wok!).
+
+When I'm not building things with code:
+
+- 🔊 Repairing vintage audio gear — because modern sound just isn't retro enough
+- 🍕 Baking pizza in my self-built oven
+- 🤿 Freediving
+- 🥢 Mastering Chinese cooking (currently working on the wok)
