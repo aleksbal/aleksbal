@@ -41,7 +41,7 @@ Docker · Kubernetes · Gradle · Git · Jenkins
 ## Connect
 
 - GitHub: [@aleksbal](https://github.com/aleksbal)
-- LinkedIn: [Aleks Balaban](https://www.linkedin.com/in/aleksandarbalaban/)
+- LinkedIn: [Aleks Balaban](https://www.linkedin.com/in/aleksbalaban/)
 - Website: [Modest AI Studio](https://aleksbal.github.io/ai-consulting)
 
 ## Outside software
