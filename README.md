@@ -22,10 +22,10 @@ I run [Modest AI Studio](https://aleksbal.github.io/ai-consulting), where I help
 Java · Kotlin · Spring Boot · Node.js · FastAPI
 
 **AI / LLM Engineering**  
-OpenAI · Anthropic Claude · AWS Bedrock · Ollama · LangChain · LangGraph · RAG · MCP
+OpenAI · Claude · AWS Bedrock · Ollama · LangChain · LangGraph · RAG · MCP
 
 **AI-Assisted Development**  
-Cursor · GitHub Copilot · Codex · Claude
+Claude Code · Codex · Cursor · GitHub Copilot
 
 **Data, Search & Analytics**  
 PostgreSQL · Oracle · MongoDB · Elasticsearch · Kibana
