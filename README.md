@@ -1,49 +1,31 @@
-# Hi, I'm Aleks Balaban
+# Aleks Balaban
 
-Senior software engineer focused on backend systems, APIs, distributed architectures, and practical AI integration.
+**Software architect: 25 years of distributed and enterprise systems, now building agentic AI and regulated integration platforms.**
 
-I have 20+ years of experience in Java, Spring Boot, enterprise systems, databases, integration, and cloud infrastructure. More recently, my work has moved toward AI-assisted software engineering: using LLMs for Java development, testing, codebase understanding, refactoring, documentation, and developer productivity.
+I design systems end to end and build them with AI coding agents as my development team. I set the architecture, constraints and quality bar, review and verify everything the agents produce, and I own the result.
 
-I also explore privacy-aware AI integration, including local/offline NER-based obfuscation before sending sensitive content to online LLM services.
+## What I build
 
-I run [Modest AI Studio](https://aleksbal.github.io/ai-consulting), where I help small and medium-sized businesses move from AI curiosity to working solutions.
+- **Regulated integration platforms.** A SESAR SWIM (Yellow Profile) gateway for European air navigation service providers, with RBAC, full auditing, a delivery ledger and token-based headless API access.
+- **Agent tooling and MCP.** [idea-mcp-proxy](https://github.com/aleksbal/idea-mcp-proxy) is an MCP reverse proxy that cuts IDE call-hierarchy output for agents by 95–99% without losing precision, using deterministic summarization rather than LLM summarization.
+- **Retrieval and RAG.** [lahmajo](https://github.com/aleksbal/lahmajo) is agentic RAG with hybrid BM25 + vector retrieval, Reciprocal Rank Fusion and adaptive chunking, running on local or cloud LLMs.
+- **Privacy-aware and on-prem AI.** Local/offline NER-based obfuscation before data reaches online LLMs, and local model deployments with Ollama.
 
-## What I'm currently focused on
+## How I work
 
-- AI-assisted Java, Spring Boot, and Python development
-- AI-supported test automation, integration testing, and regression analysis
-- Codebase understanding, refactoring, and documentation with LLM-based tools
-- Privacy-aware LLM integration with local/offline obfuscation
-- Practical RAG, agentic workflows, MCP, and evaluation patterns for software delivery
+- Architecture first: constraints, failure modes, security and auditability from day one, not bolted on later.
+- AI agents as the implementation team, held to explicit specs, tests and measurements. I verify their output instead of trusting it.
+- Production-grade by default: the kind of software regulated industries can actually run.
 
-## Tech Stack
+## Stack
 
-**Backend & APIs**  
-Java · Kotlin · Spring Boot · Node.js · FastAPI
+**Architecture & backend:** Java · Spring Boot · Kotlin · Python/FastAPI · Node.js · messaging (pub/sub, request/response) · REST/OpenAPI
+**AI / agents:** Claude · OpenAI · AWS Bedrock · Ollama · LangChain/LangGraph · MCP · RAG
+**Data & search:** PostgreSQL · Oracle · MongoDB · Elasticsearch
+**Platform:** Docker · Kubernetes · Keycloak/OAuth2 · Jenkins · Git
 
-**AI / LLM Engineering**  
-OpenAI · Claude · AWS Bedrock · Ollama · LangChain · LangGraph · RAG · MCP
+## Elsewhere
 
-**AI-Assisted Development**  
-Claude Code · Codex · Cursor · GitHub Copilot
+[Modest AI Studio](https://aleksbal.github.io/ai-consulting) (AI consulting for SMEs) · [Blog](https://aleksbal.github.io/ai-consulting/blog/) · [LinkedIn](https://www.linkedin.com/in/aleksbalaban/)
 
-**Data, Search & Analytics**  
-PostgreSQL · Oracle · MongoDB · Elasticsearch · Kibana
-
-**DevOps & Delivery**  
-Docker · Kubernetes · Gradle · Git · Jenkins
-
-## Writing & Projects
-
-- [Modest AI Studio](https://aleksbal.github.io/ai-consulting)
-- [AI Blog](https://aleksbal.github.io/ai-consulting/blog/)
-
-## Connect
-
-- GitHub: [@aleksbal](https://github.com/aleksbal)
-- LinkedIn: [Aleks Balaban](https://www.linkedin.com/in/aleksbalaban/)
-- Website: [Modest AI Studio](https://aleksbal.github.io/ai-consulting)
-
-## Outside software
-
-Vintage audio repair · pizza in a self-built oven · Chinese cooking · freediving
+*Outside software: vintage audio repair, a self-built pizza oven, Chinese cooking, freediving.*
