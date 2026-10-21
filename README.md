@@ -14,7 +14,8 @@ I design systems end to end and build them with AI coding agents as my developme
 ## How I work
 
 - Architecture first: constraints, failure modes, security and auditability from day one, not bolted on later.
-- AI agents as the implementation team, held to explicit specs, tests and measurements. I verify their output instead of trusting it.
+- **Agentic SDLC built on GitHub workflows.** Every issue is an agent prompt. Claude agents implement it through ordinary commits and pull requests, AI reviews every PR with escalation to me for exceptions, and GitHub Actions enforces the gates. The process is the guardrail: every change is traceable from issue to merge.
+- I verify agent output against specs, tests and measurements instead of trusting it.
 - Production-grade by default: the kind of software regulated industries can actually run.
 
 ## Stack
