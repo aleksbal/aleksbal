@@ -10,7 +10,7 @@ I run [Modest AI Studio](https://aleksbal.github.io/ai-consulting), where I help
 
 ## What I'm currently focused on
 
-- AI-assisted Java and Spring Boot development
+- AI-assisted Java, Spring Boot, and Python development
 - AI-supported test automation, integration testing, and regression analysis
 - Codebase understanding, refactoring, and documentation with LLM-based tools
 - Privacy-aware LLM integration with local/offline obfuscation
